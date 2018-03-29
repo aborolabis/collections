@@ -1,4 +1,4 @@
-package pl.dominisz.collections;
+package pl.sda.kopczynskaizabela.collections;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

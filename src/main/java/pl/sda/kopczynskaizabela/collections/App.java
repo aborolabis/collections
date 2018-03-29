@@ -1,4 +1,4 @@
-package pl.dominisz.collections;
+package pl.sda.kopczynskaizabela.collections;
 
 /**
  * http://dominisz.pl
